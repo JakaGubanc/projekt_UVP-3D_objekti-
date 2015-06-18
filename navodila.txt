@@ -1,0 +1,7 @@
+V programu lahko narišemo poljubne oglate like, ki se nato pretvorijo v 3D
+objekte. S levim klikom na miško rišemo ravne crte in tako narisemo lik. Ko zelimo
+lik zakjuciti naredimo to tako da se z misko postavimo na zacetno tocko in
+dvokliknemo levi gumb na miski. Ce zelimo narisati se kak lik kliknemo na desni
+gumb miske in ponovimo postopek. Ko zelimo da se nasi liki spremenijo v 3D
+objekte pritisnemo na srednji gumb miske. Potem lahko se nastavljamo debelino
+objekta in kot projecije ter barvo in debelino crt in tudi barvo ozadja.
